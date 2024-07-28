@@ -3,4 +3,8 @@ name = "rust-simple-logger"
 version = "0.1.0"
 edition = "2021"
 
-[dependenccies]
+[dependencies]
+# Add dependencies here if needed
+
+[dev-dependencies]
+# Add dev dependencies here if needed
